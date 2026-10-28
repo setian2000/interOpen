@@ -1,0 +1,191 @@
+{
+  "browsers": [
+    {
+      "name": "edge",
+      "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+      "urls": [
+        {
+          "url": "https://gpublic.gg.go.kr:9110/nanum/nflow/login/index_gill.jsp",
+          "open_mode": "window"
+        },
+        {
+          "url": "https://edu.gg.go.kr",
+          "open_mode": "window"
+        },
+        {
+          "url": "https://www.library.kr/bookpoint/main/homemain",
+          "open_mode": "tab"
+        },
+        {
+          "url": "https://ts14.amaranth10.co.kr/#/login",
+          "open_mode": "window"
+        },
+        {
+          "url": "https://nia.step.or.kr/",
+          "open_mode": "tab"
+        },
+        {
+          "url": "https://ebp.amaranth10.co.kr",
+          "open_mode": "tab"
+        },
+        {
+          "url": "https://gportal.gill.or.kr",
+          "open_mode": "tab"
+        }
+      ],
+      "args": [
+        "--new-window"
+      ],
+      "delay": 0.5
+    },
+    {
+      "name": "whale",
+      "path": "C:\\Program Files\\Naver\\Naver Whale\\Application\\whale.exe",
+      "urls": [
+        {
+          "url": "https://www.naver.com",
+          "open_mode": "window"
+        }
+      ],
+      "args": [],
+      "delay": 0.5
+    },
+    {
+      "name": "firefox",
+      "path": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+      "urls": [
+        {
+          "url": "https://chatgpt.com",
+          "open_mode": "window"
+        },
+        {
+          "url": "https://aistudio.google.com",
+          "open_mode": "tab"
+        },
+        {
+          "url": "https://copilot.microsoft.com/",
+          "open_mode": "tab"
+        },
+        {
+          "url": "https://gemini.google.com/app?hl=ko",
+          "open_mode": "tab"
+        },
+        {
+          "url": "https://grok.com/",
+          "open_mode": "tab"
+        }
+      ],
+      "args": [],
+      "delay": 0.5
+    },
+    {
+      "name": "comet",
+      "path": "C:/Program Files/Perplexity/Comet/Application/comet.exe",
+      "urls": [
+        {
+          "url": "https://www.perplexity.ai",
+          "open_mode": "window"
+        },
+        {
+          "url": "https://adot.ai",
+          "open_mode": "tab"
+        }
+      ],
+      "args": [],
+      "delay": 0.5
+    },
+    {
+      "name": "chrome",
+      "path": "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe",
+      "urls": [
+        {
+          "url": "https://www.google.com",
+          "open_mode": "window"
+        }
+      ],
+      "args": [],
+      "delay": 0.5
+    },
+    {
+      "name": "brave",
+      "path": "C:/Program Files/BraveSoftware/Brave-Browser/Application/brave.exe",
+      "urls": [
+        {
+          "url": "https://www.youtube.com",
+          "open_mode": "window"
+        }
+      ],
+      "args": [],
+      "delay": 0.5
+    },
+    {
+      "name": "arc",
+      "path": "C:\\Users\\ITMaster20\\AppData\\Local\\Microsoft\\WindowsApps\\Arc.exe",
+      "urls": [],
+      "args": [],
+      "delay": 0.5
+    }
+  ],
+  "apps": [
+    {
+      "name": "Antigravity",
+      "path": "C:/Users/ITMaster20/AppData/Local/Programs/antigravity/Antigravity.exe",
+      "mode": "cmd",
+      "args": []
+    },
+    {
+      "name": "VSCode",
+      "path": "C:/Users/ITMaster20/AppData/Local/Programs/Microsoft VS Code/Code.exe",
+      "mode": "cmd",
+      "args": []
+    },
+    {
+      "name": "Cursor",
+      "path": "C:/Users/ITMaster20/AppData/Local/Programs/cursor/_/Cursor.exe",
+      "mode": "cmd",
+      "args": []
+    },
+    {
+      "name": "Timer",
+      "path": "C:\\Users\\User\\Downloads\\FreeTimerPortable\\FreeTimer.exe",
+      "mode": "direct",
+      "args": []
+    },
+    {
+      "name": "PowerShell",
+      "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+      "mode": "direct",
+      "args": []
+    },
+    {
+      "name": "Explorer",
+      "path": "C:/Windows/explorer.exe",
+      "mode": "direct",
+      "args": [
+        "D:\\00.",
+        "인사총무팀_전산\\15.",
+        "그룹웨어(아마란스)"
+      ]
+    },
+    {
+      "name": "IntelliJ",
+      "path": "C:/Program Files/JetBrains/IntelliJ IDEA 2026.2.0.1/bin/idea64.exe",
+      "mode": "direct",
+      "args": []
+    },
+    {
+      "name": "Explorer",
+      "path": "C:/Windows/explorer.exe",
+      "mode": "direct",
+      "args": [
+        "D:\\util\\eGovFrame-5.0.0-Windows-64bit\\eGovFrame-5.0.0\\textbook"
+      ]
+    },
+    {
+      "name": "G-Talk",
+      "path": "C:/Program Files (x86)/AtMessenger7/Launcher.exe",
+      "mode": "direct",
+      "args": []
+    }
+  ]
+}

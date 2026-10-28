@@ -1,0 +1,140 @@
+{
+  "browsers": [
+    {
+      "name": "edge",
+      "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+      "urls": [
+        {
+          "url": "https://gpublic.gg.go.kr:9110/nanum/nflow/login/index_gill.jsp",
+          "open_mode": "window"
+        },
+        {
+          "url": "https://edu.gg.go.kr",
+          "open_mode": "window"
+        },
+        {
+          "url": "https://www.library.kr/bookpoint/main/homemain",
+          "open_mode": "tab"
+        }
+      ],
+      "args": [
+        "--new-window"
+      ],
+      "delay": 0.5
+    },
+    {
+      "name": "whale",
+      "path": "C:\\Program Files\\Naver\\Naver Whale\\Application\\whale.exe",
+      "urls": [
+        {
+          "url": "https://www.naver.com",
+          "open_mode": "window"
+        }
+      ],
+      "args": [],
+      "delay": 0.5
+    },
+    {
+      "name": "firefox",
+      "path": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+      "urls": [
+        {
+          "url": "https://chatgpt.com",
+          "open_mode": "window"
+        },
+        {
+          "url": "https://aistudio.google.com",
+          "open_mode": "tab"
+        },
+        {
+          "url": "https://copilot.microsoft.com/",
+          "open_mode": "tab"
+        },
+        {
+          "url": "https://gemini.google.com/app?hl=ko",
+          "open_mode": "tab"
+        },
+        {
+          "url": "https://grok.com/",
+          "open_mode": "tab"
+        },
+        {
+          "url": "http://localhost:5678/",
+          "open_mode": "tab"
+        }
+      ],
+      "args": [],
+      "delay": 0.5
+    },
+    {
+      "name": "comet",
+      "path": "C:\\Users\\User\\AppData\\Local\\Perplexity\\Comet\\Application\\comet.exe",
+      "urls": [
+        {
+          "url": "https://www.perplexity.ai",
+          "open_mode": "window"
+        }
+      ],
+      "args": [],
+      "delay": 0.5
+    },
+    {
+      "name": "chrome",
+      "path": "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe",
+      "urls": [
+        {
+          "url": "https://www.google.com",
+          "open_mode": "window"
+        }
+      ],
+      "args": [],
+      "delay": 0.5
+    }
+  ],
+  "apps": [
+    {
+      "name": "Arc",
+      "path": "C:\\Users\\User\\Desktop\\Arc.lnk",
+      "mode": "file",
+      "args": []
+    },
+    {
+      "name": "Cursor",
+      "path": "C:\\Program Files\\cursor\\Cursor.exe",
+      "mode": "cmd",
+      "args": []
+    },
+    {
+      "name": "VSCode",
+      "path": "C:\\Program Files\\Microsoft VS Code\\Code.exe",
+      "mode": "cmd",
+      "args": []
+    },
+    {
+      "name": "Antigravity",
+      "path": "C:\\Users\\User\\AppData\\Local\\Programs\\Antigravity\\Antigravity.exe",
+      "mode": "cmd",
+      "args": []
+    },
+    {
+      "name": "Timer",
+      "path": "C:\\Users\\User\\Downloads\\FreeTimerPortable\\FreeTimer.exe",
+      "mode": "direct",
+      "args": []
+    },
+    {
+      "name": "PowerShell",
+      "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+      "mode": "direct",
+      "args": []
+    },
+    {
+      "name": "Explorer",
+      "path": "C:/Windows/explorer.exe",
+      "mode": "direct",
+      "args": [
+        "D:\\JooAcademy\\interOpen_app"
+      ]
+    }
+  ]
+}
